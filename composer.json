@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/googlecalendar",
+    "name": "codica-studio/googlecalendar",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/googlecalendar",
+    "homepage": "https://github.com/codica-studio/googlecalendar",
     "license": "MIT",
     "authors": [
         {
